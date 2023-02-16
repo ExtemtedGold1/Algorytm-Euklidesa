@@ -1,0 +1,15 @@
+D:\Algorytm Euklidesa\bin\Debug\net7.0\Algorytm Euklidesa.exe
+D:\Algorytm Euklidesa\bin\Debug\net7.0\Algorytm Euklidesa.deps.json
+D:\Algorytm Euklidesa\bin\Debug\net7.0\Algorytm Euklidesa.runtimeconfig.json
+D:\Algorytm Euklidesa\bin\Debug\net7.0\Algorytm Euklidesa.dll
+D:\Algorytm Euklidesa\bin\Debug\net7.0\Algorytm Euklidesa.pdb
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.csproj.AssemblyReference.cache
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.AssemblyInfoInputs.cache
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.AssemblyInfo.cs
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.csproj.CoreCompileInputs.cache
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.dll
+D:\Algorytm Euklidesa\obj\Debug\net7.0\refint\Algorytm Euklidesa.dll
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.pdb
+D:\Algorytm Euklidesa\obj\Debug\net7.0\Algorytm Euklidesa.genruntimeconfig.cache
+D:\Algorytm Euklidesa\obj\Debug\net7.0\ref\Algorytm Euklidesa.dll
